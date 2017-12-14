@@ -71,7 +71,7 @@ self.CryptoNoter.CONFIG = {
 </script>
 ```
 * Done! You can now start mining using your visitors' CPU resources by adding the above tag to any of your websites.
-Try CryptoNoter Demo: https://www.cryptonoter.com/demo.php
+Have a look at CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
 ## JS Miner Documentation
 There are parameters that you can preset within the javscript miner script.
