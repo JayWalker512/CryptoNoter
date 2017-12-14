@@ -148,10 +148,11 @@ If you have any questions on Troubleshooting & Debugging, please ask the questio
 ## Future Developments
 At this moment, I'm working on the coding to make it compatible with majority of the CryptoNote currencies. In addition, i am also working to build a pool that supports in-browser javascript mining.
 
-## Mining Pool Issues
-Javascript browser mining is very different from rig mining or solo mining. Visitors do not stay long on just one webpage and they navigate multiple times on a single visit. We will need a low difficulty pool of below difficulty 1000 for js browser mining to work. As of 14/12/17, i have only managed to find one single Monero pool that is trustable and below difficulty < 1000. 
+## Mining Pools
+I am not affilated to the xmr mining pool: monero.us.to:1111
+This pool is referenced in the coding because i am personally using it for my web mining network. It is not the best ideal pool and you may change it to whichever pool you prefer.
 
-However, difficulty 1000 is not the ideal level for javascript browser mining to achieve maximum mining capabilities. I may need to create and host a custom pool that supports difficulty level < 500 so that miners can submit their shares more often within 60 seconds interval. 
+I am planning to create and host a custom pool that supports difficulty level < 500 so that miners can submit their shares more often within 60 seconds interval. 
 
 In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be difficult for me to maintain a low difficulty pool all by myself, however it will be possible if everyone can understand the mission of the project: Great things happen when we work together. The power of collaboration.
 
