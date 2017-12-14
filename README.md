@@ -1,5 +1,6 @@
 ## CryptoNoter v1.2
-`Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br />
+<img src='https://www.cryptonoter.com/img/logo-large.png' width='300'/><br /><br />
+`Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
