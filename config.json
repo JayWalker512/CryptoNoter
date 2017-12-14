@@ -1,0 +1,8 @@
+{
+    "lhost": "127.0.0.1",
+    "lport": 7777,
+    "domain": "localhost",
+    "pool": "monero.us.to:1111",
+    "addr": "42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX",
+    "pass": "x"
+}
