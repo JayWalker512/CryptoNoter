@@ -2,6 +2,14 @@
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
 
+## Requirements
+The project is a basically a "Plug & Play" installation. Most of the configurations are setup automatically when you run the installation. Simply follow the steps by steps installation. However, if you decide to modify or optimize CryptoNoter for maximum mining capabilities, you will need good knowledge on Nginx Reverse Proxy, javascript, etc
+
+`System Requirements`
+1. Server with at least 1 CPU, 1 GB Ram & 8GB Harddisk
+1. Ubuntu(Debian) OS
+2. Nginx, Nodejs, NPM & Forever Packages
+
 ## Installation
 ```bash
 Install Nginx
