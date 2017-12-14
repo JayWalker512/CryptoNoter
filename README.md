@@ -78,11 +78,13 @@ There are parameters that you can preset within the javscript miner. Here are so
 	var addr = 'CryptoNoter';
 	var miner = new CryptoNoter.Anonymous(addr, {
         autoThreads: true,
-		throttle: 0.6
+	throttle: 0.8
 	});
 	miner.start();
 </script>
 ```
+`throttle(value)`
+Set the fraction of time that threads should be idle. A value of 0 means no throttling (i.e. full speed), a value of 0.5 means that threads will stay idle 50% of the time, with 0.8 they will stay idle 80% of the time.
 
 ## Troubleshooting
 Check if server.js execute successfully by using this command
