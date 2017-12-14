@@ -145,27 +145,14 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 
 If you have any questions on Troubleshooting & Debugging, please ask the questions here: https://github.com/cryptonoter/CryptoNoter/issues/1
 
-## Source
+## Future Developments
+At this moment, I'm working on the coding to make it compatible with majority of the CryptoNote currencies. In addition, i am also working to build a pool that support in-browser javascript mining.
 
-```acsii
-CryptoNoter.git
-.
-|-- README.md
-|-- banner
-|-- config.json
-|-- LICENSE
-|-- package-lock.json
-|-- package.json
-|-- server.js
-|__ web
-    |-- processor.js
-    |-- demo.html
-    |-- index.html
-    |-- lib
-    |   |-- cryptonight-asmjs.min.js
-    |   |-- cryptonight-asmjs.min.js.mem
-    |   |__ cryptonight.wasm
-    |__ worker.js
+## XMR Donations To Support
+I am looking to build more cryptonote currency support upon this platform and also to create a monero pool specifically for javascript browser mining. There are costs involved in developments. If you are interested in my future developments, i would really appreciate a small donation to support this project.
+```html
+My Monero Wallet Address
+42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX
 ```
 
 ## License
