@@ -13,7 +13,7 @@ However, if you decide to modify or optimize CryptoNoter for maximum mining capa
 3. Nginx, Nodejs, NPM & Forever Packages
 4. SSL Support For Domain. Use https://certbot.eff.org/
 
-`DO NOT USE GOOGLE COMPUTE ENGINE (GCE) FOR YOUR SERVER`
+`NOTE:` DO NOT USE GOOGLE COMPUTE ENGINE (GCE) or related Google CLoud Services. It is in violation of their TOS and Google will suspend your account. Been there, done that!
 
 ## Installation
 ```bash
