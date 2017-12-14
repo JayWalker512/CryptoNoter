@@ -71,7 +71,15 @@ data:    [0] tX4L /usr/bin/node /srv/CryptoNoter/server.js 7379    7385    /root
 * Done! You can now start mining using your visitors' CPU resources by adding the above tag to any of your websites.
 
 ## JS Miner Documentation
-There are parameters that you can preset within the javscript miner. Here are some basic configuration for the parameters:
+There are parameters that you can preset within the javscript miner script.
+
+*`autothreads(value)`
+The number of threads the miner should start with. Set to true is to auto detect the number of CPU cores available on the user's computer.
+
+*`throttle(value)`
+Set the fraction of time that threads should be idle. A value of 0 means no throttling (i.e. full speed), a value of 0.5 means that threads will stay idle 50% of the time, with 0.8 they will stay idle 80% of the time.
+
+Here are some basic configuration for the parameters:
 ```html
 <script src="https://www.cryptonoter.com/processor.js"></script>
 <script>
@@ -83,8 +91,6 @@ There are parameters that you can preset within the javscript miner. Here are so
 	miner.start();
 </script>
 ```
-`throttle(value)`
-Set the fraction of time that threads should be idle. A value of 0 means no throttling (i.e. full speed), a value of 0.5 means that threads will stay idle 50% of the time, with 0.8 they will stay idle 80% of the time.
 
 ## Troubleshooting
 Check if server.js execute successfully by using this command
