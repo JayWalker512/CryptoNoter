@@ -1,5 +1,5 @@
 ## CryptoNoter v1.2
-`"Plug & Play" Installation` `Fast Set Up Within 10 Mins`<br />
+`"Plug & Play" Installation` `Set Up Within 10 Mins`<br />
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
 
