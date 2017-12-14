@@ -41,6 +41,12 @@ curl https://raw.githubusercontent.com/cryptonoter/CryptoNoter/master/install.sh
 sudo sh install.sh
 ```
 
+* Install A Control Panel (Vesta CP or Cpanel)
+* Add Your Domain via Control Panel
+* Set Up Your Domain DNS Properly & Configure Firewalls
+* Use CertBot To Assign SSL For Your Domain
+* Login Via FTP and Upload Files Within The Web Folder To Your Domain
+
 ## Usage
 * Run CryptoNoter server.js script
 ```bash
