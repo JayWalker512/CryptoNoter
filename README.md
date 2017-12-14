@@ -13,7 +13,7 @@ This open source project is created to bypass detection and avoid being flagged 
 CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
 ## Requirements
-The project is a basically a "Plug & Play" installation. Most of the configurations are setup automatically when you run the installation. Simply follow the steps by steps installation. 
+The project is basically a "Plug & Play" installation. Most of the configurations are setup automatically when you run the installation. Simply follow the step by step installation. 
 
 However, if you decide to modify or optimize CryptoNoter for maximum mining capabilities, you will need good knowledge on Nginx Reverse Proxy, javascript, etc. For example, we did approx 1550 H/s for a website with approx 15,000 visitors (Avg Time on Page: 55 secs / visitor) before optimization. After optimization, we are doing on avg 3500 H/s
 
