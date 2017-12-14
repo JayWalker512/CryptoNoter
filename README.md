@@ -51,7 +51,7 @@ Error: listen EADDRINUSE 127.0.0.1:7777
     at startup (bootstrap_node.js:187:16)
     at bootstrap_node.js:608:3
 ```
-Common Issues & Bugs:
+'Common Issues & Bugs:'
 1. Port in use. Check if the port is listening?
 2. Connection errors are commonly casused by iptables. Check your firewall settings
 3. CryptoNoter not generating hashes. Check your config.json setting
