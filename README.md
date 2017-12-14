@@ -32,6 +32,8 @@ curl https://raw.githubusercontent.com/cryptonoter/CryptoNoter/master/install.sh
 sudo sh install.sh
 ```
 
+During the installation process, you are REQUIRED to specify your Monero Wallet Address. If you do not specify your wallet address, the installer will prompt you for it before proceeding with installation.
+
 * Install Control Panel (Vesta CP or Cpanel)
 * Set Up Your Domain DNS Properly & Configure Firewalls
 * Use CertBot To Assign SSL For Your Domain
