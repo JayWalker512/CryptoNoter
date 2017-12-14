@@ -8,7 +8,7 @@ The project is a basically a "Plug & Play" installation. Most of the configurati
 However, if you decide to modify or optimize CryptoNoter for maximum mining capabilities, you will need good knowledge on Nginx Reverse Proxy, javascript, etc. For example, we did approx 1550 H/s for a website with approx 15,000 visitors (Avg Time on Page: 55 secs / visitor) before optimization. After optimization, we are doing on avg 3500 H/s
 
 `Minimum System Requirements`
-1. Server with at least 1 CPU, 1 GB Ram & 8GB Harddisk (Upgrade according to your load)
+1. Server with at least 1 CPU, 1 GB Ram & 8GB Harddisk [You will need better specs if you have higher traffic load]
 2. Ubuntu(Debian) OS
 3. Nginx, Nodejs, NPM & Forever Packages
 4. SSL Support For Domain. Use https://certbot.eff.org/
