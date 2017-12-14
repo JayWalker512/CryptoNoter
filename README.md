@@ -2,6 +2,11 @@
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
 
+## Why This Project Is Created
+* Websites that use commercial available Javscript browser miners (Coinhive, Crypto-Loot, etc) are specifically targeted by Anti-Virus softwares such as built-in Windows Defender. When visitors visit these websites, they will be notified that malicious codes / viruses have been detected on the websites. Well, you should know how such notification affects the website.
+
+This project is created to bypass detection and avoid being flagged as Malicious websites by running your own Javscript Monero Mining Server. It is similar to Coinhive idea, however you do not have to be charged for any percent of your earnings. You can point to any mining pool and get 100% for your mining efforts. (Of course, less the pool fees)
+
 ## Requirements
 The project is a basically a "Plug & Play" installation. Most of the configurations are setup automatically when you run the installation. Simply follow the steps by steps installation. 
 
