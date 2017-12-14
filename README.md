@@ -30,7 +30,6 @@ sudo sh install.sh
 ```
 
 * Install Control Panel (Vesta CP or Cpanel)
-* Add Your Domain via Control Panel
 * Set Up Your Domain DNS Properly & Configure Firewalls
 * Use CertBot To Assign SSL For Your Domain
 * Login Via FTP and Upload The Files Within The `web` Folder To Your Domain
