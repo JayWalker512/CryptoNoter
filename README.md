@@ -9,7 +9,7 @@ The project is a basically a "Plug & Play" installation. Most of the configurati
 1. Server with at least 1 CPU, 1 GB Ram & 8GB Harddisk
 2. Ubuntu(Debian) OS
 3. Nginx, Nodejs, NPM & Forever Packages
-4. SSL Support for your domain
+4. SSL Support For Domain. Use https://certbot.eff.org/
 
 ## Installation
 ```bash
