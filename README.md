@@ -45,7 +45,7 @@ info:    Forever processes running
 data:        uid  command       script                     forever pid  id logfile                 uptime
 data:    [0] tX4L /usr/bin/node /srv/CryptoNoter/server.js 7379    7385    /root/.forever/tX4L.log 0:0:59:11.96
 ```
-* Make sure you have uploaded the web folder to your domain public_html or domain root. Ensure you can access https://YOUR_DOMAIN_NAME/demo.html
+* Make sure you have uploaded the `web` folder to your domain public_html or domain root. Ensure you can access https://YOUR_DOMAIN_NAME/demo.html
 
 * Change the settings for these files: worker.js, processor.js & lib/cryptonight-asmjs.min.js<br />
 Replace %CryptoNoter_domain% with your DOMAIN_NAME
