@@ -148,8 +148,15 @@ If you have any questions on Troubleshooting & Debugging, please ask the questio
 ## Future Developments
 At this moment, I'm working on the coding to make it compatible with majority of the CryptoNote currencies. In addition, i am also working to build a pool that support in-browser javascript mining.
 
+## Mining Pool Issues
+Javascript browser mining is very different from rig mining or solo mining. Visitors do not stay long on just one webpage and they navigate multiple times on a single visit. We will need a low difficulty pool of below difficulty 1000 for js browser mining to work. As of 14/12/17, i have only managed to find one single Monero pool that is trustable and below difficulty < 1000. However, difficulty 1000 is not the ideal level for javascript browser mining to achieve maximum mining capabilities. I may need to create and host a custom pool that supports difficulty level < 500 so that miners can submit their shares more often within 60 seconds interval. 
+
+In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be difficult for me to maintain a low difficulty pool all by myself, however it will be possible if everyone can understand the mission of the project: Great things happen when we work together. The power of collaboration.
+
+Please consider a donation for my future developments. Thank you
+
 ## XMR Donations To Support
-I am looking to build more cryptonote currency support upon this platform and also to create a monero pool specifically for javascript browser mining. There are costs involved in developments. If you are interested in my future developments, i would really appreciate a small donation to support this project.
+I am looking to add other cryptonote currencies support onto this platform and also to create a monero pool specifically for javascript browser mining. There are costs involved in developments. If you are interested in my future developments, i would really appreciate a small donation to support this project.
 ```html
 My Monero Wallet Address
 42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX
