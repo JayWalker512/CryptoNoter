@@ -1,10 +1,10 @@
 ## CryptoNoter v1.2
-`"Plug & Play" Installation` `Set Up Within 10 Mins`<br />
+`Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br />
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
-* You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up
+* You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
 
-## Why This Project Is Created
+## Why This Open Source Project Is Created
 * Websites that use Javscript browser miners (Coinhive, Crypto-Loot, etc) are specifically targeted by most anti-virus softwares including the built-in Windows Defender. When visitors visit these websites, they will be notified that malicious codes / viruses have been detected on these websites. Well, you should know how such notification affects the website. In addition, you get charged up to 30% commission by these javscript mining platform.
 
 This project is created to bypass detection and avoid being flagged as malicious websites by running your own Javscript Mining Server and deploying on your websites. It is similar to Coinhive idea, however you do not have to be charged for any percent of your earnings. You can point to any Monero mining pool and get 100% for your mining efforts. (Of course, less the pool fees)
