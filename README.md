@@ -1,4 +1,4 @@
-## CryptoNoter - In-Browser Javascript XMR miner
+## CryptoNoter In-Browser Javascript XMR miner
 <img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
 `Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
