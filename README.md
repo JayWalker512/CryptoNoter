@@ -159,4 +159,4 @@ CryptoNoter.git
 MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
 
 ## Missions
-Great things happen when we work together. The power of collaborations
+Great things happen when we work together. The power of collaboration
