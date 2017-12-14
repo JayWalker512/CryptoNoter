@@ -132,8 +132,31 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 
 If you have any questions on Troubleshooting & Debugging, please ask the questions here: https://github.com/cryptonoter/CryptoNoter/issues/1
 
+## Source
+
+```acsii
+CryptoNoter.git
+.
+|-- README.md
+|-- banner
+|-- config.json
+|-- LICENSE
+|-- package-lock.json
+|-- package.json
+|-- server.js
+|__ web
+    |-- processor.js
+    |-- demo.html
+    |-- index.html
+    |-- lib
+    |   |-- cryptonight-asmjs.min.js
+    |   |-- cryptonight-asmjs.min.js.mem
+    |   |__ cryptonight.wasm
+    |__ worker.js
+```
+
 ## License
-MIT https://github.com/cryptonoter/CryptoNoter/master/LICENSE
+MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
 
 ## Missions
 Great things happen when we work together. The power of collaborations
