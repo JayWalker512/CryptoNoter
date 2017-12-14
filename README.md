@@ -1,5 +1,5 @@
 ## CryptoNoter v1.2
-<img src='https://www.cryptonoter.com/img/logo-large.png' width='300'/><br /><br />
+<img src='https://www.cryptonoter.com/img/logo-large.png'/><br /><
 `Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
