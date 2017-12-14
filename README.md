@@ -23,19 +23,6 @@ However, if you decide to modify or optimize CryptoNoter for maximum mining capa
 `IMPORTANT NOTE:` DO NOT USE GOOGLE COMPUTE ENGINE (GCE) or other related Google CLoud Services for crypto-mining services. It is in violation of their TOS. Google will suspend your account, lock your files and charge you for the usage. Been there, done that. So don't waste your precious time.
 
 ## Installation
-```bash
-Install Nginx
-sudo apt-get update
-sudo apt-get install nginx
-```
-
-Install NodeJs & NPM
-```bash
-sudo apt-get update
-sudo apt-get install nodejs
-sudo apt-get install npm
-```
-
 Install CryptoNoter
 ```bash
 curl https://raw.githubusercontent.com/cryptonoter/CryptoNoter/master/install.sh > install.sh
