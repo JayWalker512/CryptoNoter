@@ -132,3 +132,8 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 
 If you have any questions on Troubleshooting & Debugging, please ask the questions here: https://github.com/cryptonoter/CryptoNoter/issues/1
 
+## License
+MIT https://github.com/cryptonoter/CryptoNoter/master/LICENSE
+
+## Missions
+Great things happen when we work together. The power of collaborations
