@@ -43,7 +43,7 @@ This is a Nginx Reverse Proxy server setup, YOU NEED TO ADD THE FOLLOWING TO YOU
 ```html
    location /proxy {  
   	add_header 'Access-Control-Allow-Origin' * always;
-  	proxy_pass http://localhost:7778;
+  	proxy_pass http://localhost:7777;
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
         proxy_set_header Connection "upgrade";
