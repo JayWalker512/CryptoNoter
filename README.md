@@ -37,6 +37,19 @@ sudo sh install.sh
 * Use CertBot To Assign SSL For Your Domain
 * Login Via FTP and Upload The Files Within The `web` Folder To Your Domain
 
+## Important
+This is a Nginx Reverse Proxy server setup, YOU NEED TO ADD THE FOLLOWING TO YOUR NGINX.CONF file under the domain. Without the following configuration, it will not work.
+
+```html
+   location /proxy {  
+  	add_header 'Access-Control-Allow-Origin' * always;
+  	proxy_pass http://localhost:7778;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+      }
+```
+
 ## Usage
 * Run CryptoNoter server.js script
 ```bash
