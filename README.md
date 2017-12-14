@@ -37,7 +37,7 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
  Ur Wallet : YOUR_WALLET_ADDRESS
 ```
 If script executes unsucessfully, it should show error logs. Troubleshoot by referring to the errors shown.
-For example: The error log shown below means that the port 7777 is currently in use. To resolve: Simply listen to the port 7777, identify the process that is using the port and kill the process. Then try executing the script server.js again
+`For example:` The error log shown below means that the port 7777 is currently in use. `To resolve:` Simply listen to the port 7777, identify the process that is using the port and kill the process. Then try executing the script server.js again
 ```bash
 Error: listen EADDRINUSE 127.0.0.1:7777
     at Object._errnoException (util.js:1024:11)
