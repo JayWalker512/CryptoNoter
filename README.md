@@ -40,9 +40,11 @@ sudo sh install.sh
 ```bash
 forever start /srv/CryptoNoter/server.js
 ```
-* Make sure CryptoNoter server.js script is running on the server
+* Make sure CryptoNoter server.js script is running on the server by using the command `forever list`
 ```bash
-forever list
+info:    Forever processes running
+data:        uid  command       script                     forever pid  id logfile                 uptime
+data:    [0] tX4L /usr/bin/node /srv/CryptoNoter/server.js 7379    7385    /root/.forever/tX4L.log 0:0:59:11.96
 ```
 
 * Add the following javascript before the </head> tag on your website coding. Remember to replace www.cryptonoter.com with your domain name. Else, you will be mining for my wallet
