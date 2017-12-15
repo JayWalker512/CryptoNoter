@@ -166,6 +166,7 @@ I am looking to add other cryptonote currencies support into this project and al
 My Monero Wallet Address
 42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX
 ```
+```html
 My Bitcoin Wallet Address
 34Z53zGc888pUYRsFtxgQxRVVLKwcWtjeP
 ```
