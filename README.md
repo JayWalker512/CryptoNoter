@@ -170,6 +170,10 @@ My Monero Wallet Address
 My Bitcoin Wallet Address
 34Z53zGc888pUYRsFtxgQxRVVLKwcWtjeP
 ```
+```html
+My Litecoin Wallet Address
+MJZZ9qq8ioAecyVDD7zMDStJXpY5thH2qC
+```
 
 ## License
 MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
