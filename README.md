@@ -163,15 +163,15 @@ Please consider a donation for my future developments. Thank you
 ## XMR Donations To Support
 I am looking to add other cryptonote currencies support into this project and also to create a monero pool specifically for javascript browser mining. If you are interested in my future developments, i would really appreciate a small donation to support this project.
 ```html
-My Monero Wallet Address
+My Monero Wallet Address (XMR)
 42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX
 ```
 ```html
-My Bitcoin Wallet Address
+My Bitcoin Wallet Address (BTC)
 34Z53zGc888pUYRsFtxgQxRVVLKwcWtjeP
 ```
 ```html
-My Litecoin Wallet Address
+My Litecoin Wallet Address (LTC)
 MJZZ9qq8ioAecyVDD7zMDStJXpY5thH2qC
 ```
 
