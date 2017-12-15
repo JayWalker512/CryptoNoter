@@ -14,7 +14,7 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
 
 * Please do not abuse this project. It shouldn't be used without the user's consent or used for darkweb services. And i really do not wish to see my project being abused in illegal activities.
 
-* If you like this project, please consider to support my ongoing developments with a donation using the wallet address at the bottom of this page. Thank you very much
+* If you would like to support this project and my ongoing developments, please consider making a donation using my wallet address at the bottom of this page. Thank you very much
 
 CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
