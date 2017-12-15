@@ -145,7 +145,7 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 3. CryptoNoter not generating hashes. Check your config.json setting
 4. Check the setting of nginx.conf, config.json, worker.js, processor.js & cryptonight-asmjs.min.js
 
-If you have any questions on Troubleshooting & Debugging, please ask the questions here: https://github.com/cryptonoter/CryptoNoter/issues/1
+If you have any questions on Troubleshooting & Debugging, please ask the questions or check for solutions here: https://github.com/cryptonoter/CryptoNoter/issues/1
 
 ## Future Developments
 At this moment, I'm working on the coding to make it compatible with majority of the CryptoNote currencies. In addition, i am also working to build a pool that supports in-browser javascript mining.
