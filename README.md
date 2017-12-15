@@ -34,7 +34,7 @@ sudo sh install.sh
 
 During the installation process, you are REQUIRED to specify your Monero Wallet Address. If you do not specify your wallet address, the installer will prompt you for it before proceeding with installation.
 
-* Copy config_EXAMPLE.json to config.json
+* Copy config_EXAMPLE.json to config.json<br />
 I have force install.sh to prompt for your wallet address before proceeding with installation, however there are still concerns. This step is added to address the concerns that users might somehow still mine using my wallet address. I have also blank out my wallet address. Please use the following command to copy to config.json and then replace the config.json setting manually.
 ```bash
 cp config_example.json config.json
