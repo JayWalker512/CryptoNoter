@@ -166,6 +166,7 @@ In a low difficulty pool, miners submit shares more often and hence results in h
 
 * Updates
 15/12/17 - I am currently building up a low difficulty mining pool for XMR. Will include in this project once that's completed. =)
+16/12/17 - The mining pool is setup & waiting for sync. In addition, i am working to edit the WebAssembly and recompile the .wasm file. If you are forking from this project, please kindly pull your updates.
 
 Please consider a donation for my future developments. Thank you
 
