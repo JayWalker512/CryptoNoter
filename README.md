@@ -158,6 +158,9 @@ I am planning to create and host a custom pool that supports difficulty level < 
 
 In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be difficult for me to maintain a low difficulty pool all by myself, however it will be possible if everyone can understand the mission of the project: Great things happen when we work together. The power of collaboration.
 
+* Updates
+15/12/17 - I am currently building up a low difficulty mining pool for XMR. Will include in this project once that's completed. =)
+
 Please consider a donation for my future developments. Thank you
 
 ## XMR Donations To Support
