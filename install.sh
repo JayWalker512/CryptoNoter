@@ -22,11 +22,11 @@ cd /srv
 rm -rf CryptoNoter
 git clone https://github.com/cryptonoter/CryptoNoter.git -o CryptoNoter
 cd CryptoNoter
-sed -i "s/7777/$lport/g" config.json
-sed -i "s/miner.cryptonoter.com/$domain/g" config.json
-sed -i "s/monero.us.to:1111/$pool/g" config.json
-sed -i "s/42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX/$addr/g" config.json
-sed -i "s/\"pass\": \"\"/\"pass\": \"$pass\"/g" config.json
+sed -i "s/7777/$lport/g" config.EXAMPLE.json
+sed -i "s/miner.cryptonoter.com/$domain/g" config.EXAMPLE.json
+sed -i "s/monero.us.to:1111/$pool/g" config.EXAMPLE.json
+sed -i "s/42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX/$addr/g" config.EXAMPLE.json
+sed -i "s/\"pass\": \"\"/\"pass\": \"$pass\"/g" config.EXAMPLE.json
 npm update
 npm install -g forever
 forever start /srv/CryptoNoter/server.js
