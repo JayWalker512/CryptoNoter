@@ -161,10 +161,13 @@ In a low difficulty pool, miners submit shares more often and hence results in h
 Please consider a donation for my future developments. Thank you
 
 ## XMR Donations To Support
-I am looking to add other cryptonote currencies support onto this platform and also to create a monero pool specifically for javascript browser mining. There are costs involved in developments. If you are interested in my future developments, i would really appreciate a small donation to support this project.
+I am looking to add other cryptonote currencies support into this project and also to create a monero pool specifically for javascript browser mining. If you are interested in my future developments, i would really appreciate a small donation to support this project.
 ```html
 My Monero Wallet Address
 42zXE5jcPpWR2J6pVRE39uJEqUdMWdW2H4if27wcS1bwUbBRTeSR5aDbAxP5KCjWueiZevjSBxqNZ36Q5ANPND3m4RJoeqX
+```
+My Bitcoin Wallet Address
+34Z53zGc888pUYRsFtxgQxRVVLKwcWtjeP
 ```
 
 ## License
