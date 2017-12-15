@@ -12,7 +12,9 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
 
 * I hope that this project can act as a foundation for further developments into useful services. For example, it can be modified as a journalism gatekeeping mechanism or modified to help specific groups like graphic designers whom are offering their designs as royalty free. Let's think out of the box.
 
-Please do not abuse this project. It shouldn't be used without the user's consent or used for darkweb services. And i really do not wish to see my project being abused in illegal activities. Thank you
+* Please do not abuse this project. It shouldn't be used without the user's consent or used for darkweb services. And i really do not wish to see my project being abused in illegal activities.
+
+* If you like this project, please consider to support my ongoing developments with a donation using the wallet address at the bottom of this page. Thank you very much
 
 CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
@@ -174,7 +176,7 @@ In a low difficulty pool, miners submit shares more often and hence results in h
 
 Please consider a donation for my future developments. Thank you
 
-## XMR Donations To Support
+## Donations To Support
 I am looking to add other cryptonote currencies support into this project and also to create a monero pool specifically for javascript browser mining. If you are interested in my future developments, i would really appreciate a small donation to support this project.
 ```html
 My Monero Wallet Address (XMR)
