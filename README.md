@@ -16,6 +16,8 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
 
 * If you would like to support this project and my ongoing developments, please consider making a donation using my wallet address at the bottom of this page. Thank you very much
 
+* Follow me at CryptoNoter Facebook Page: https://www.facebook.com/cryptonoter/ for regular updates on future developments.
+
 CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
 ## Requirements
