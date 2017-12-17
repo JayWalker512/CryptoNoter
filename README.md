@@ -166,8 +166,8 @@ If you have any questions on Troubleshooting & Debugging, please ask the questio
 ## Future Developments
 At this moment, I'm working to implement ETH and AEON mining into this project
 
-## Mining Pools
-* I am hosting a mining pool that i have modified to supports javascript web mining.
+## Mining Pool
+* I am hosting a mining pool that i have modified to support javascript web mining. Use pool.cryptonoter.com:1111
 
 Modified to suit the capabilities of low end devices. Var diff with mechanism to prevent high-end hardware from using low end port. Low end device enjoy low difficulty with 90% valid shares while high end hardware mine at best possible hashes.
 
