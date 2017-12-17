@@ -167,19 +167,18 @@ If you have any questions on Troubleshooting & Debugging, please ask the questio
 At this moment, I'm working on the coding to make it compatible with majority of the CryptoNote currencies. In addition, i am also working to build a pool that supports in-browser javascript mining.
 
 ## Mining Pools
-I am not affilated to the xmr mining pool: monero.us.to:1111
-This pool is referenced in the coding because i am personally using it for my web mining network. It is not the best ideal pool and you may change it to whichever pool you prefer.
+* I am hosting a mining pool that i have modified to server javascript web mining.
 
-I am planning to create and host a custom pool that supports difficulty level < 500 so that miners can submit their shares more often within 60 seconds interval. 
+Modified to suit the capabilities of low end devices. Var diff with mechanism to prevent high-end hardware from using low end port. Low end device enjoy low difficulty with 90% valid shares while high end hardware mine at best possible hashes.
 
-In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be difficult for me to maintain a low difficulty pool all by myself, however it will be possible if everyone can understand the mission of the project: Great things happen when we work together. The power of collaboration.
+In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be costly for me to maintain a low difficulty pool, i would really appreciate a small donation to support this project.
+
+Please consider making a donation using my wallet address at the bottom of this page. Thank you very much
 
 * Updates<br />
 15/12/17 - I am currently building up a low difficulty mining pool for XMR. Will include in this project once that's completed.<br />
 16/12/17 - The mining pool is setup & waiting for sync. In addition, i am working to edit the WebAssembly and recompile the .wasm file. If you are forking from this project, please kindly pull your updates.<br />
-17/12/17 - Custom mining pool modified for javascript web mining is built. Use pool.cryptonoter.com:1111 when you run javascript web mining
-
-Please consider a donation for my future developments. Thank you
+17/12/17 - Custom mining pool modified for javascript web mining is built. Use `pool.cryptonoter.com:1111` when you run javascript web mining
 
 ## Donations To Support
 I am looking to add other cryptonote currencies support into this project and also to create a monero pool specifically for javascript browser mining. If you are interested in my future developments, i would really appreciate a small donation to support this project.
