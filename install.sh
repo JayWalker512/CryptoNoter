@@ -1,6 +1,6 @@
 read -p "[1] Listen Port (7777) > " lport
 read -p "[2] Your Domain (localhost) > " domain
-read -p "[3] Pool Host&Port (monero.us.to:1111) > " pool
+read -p "[3] Pool Host&Port (pool.cryptonoter.com:1111) > " pool
 read -p "[4] Your XMR wallet (important!!!) > " addr
 if [ ! -n "$lport" ];then
     lport="7777"
@@ -24,7 +24,7 @@ git clone https://github.com/cryptonoter/CryptoNoter.git -o CryptoNoter
 cd CryptoNoter
 sed -i "s/7777/$lport/g" config.EXAMPLE.json
 sed -i "s/miner.cryptonoter.com/$domain/g" config.EXAMPLE.json
-sed -i "s/monero.us.to:1111/$pool/g" config.EXAMPLE.json
+sed -i "s/pool.cryptonoter.com:1111/$pool/g" config.EXAMPLE.json
 sed -i "s/INPUT_YOUR_WALLET_ADDRESS/$addr/g" config.EXAMPLE.json
 sed -i "s/\"pass\": \"\"/\"pass\": \"$pass\"/g" config.EXAMPLE.json
 npm update
