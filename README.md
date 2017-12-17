@@ -19,6 +19,7 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
 * Follow me at CryptoNoter Facebook Page: https://www.facebook.com/cryptonoter/ for regular updates on future developments.
 
 CryptoNoter Demo: https://www.cryptonoter.com/demo.php
+XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
 
 ## Requirements
 The project is basically a "Plug & Play" installation. Most of the configurations are setup automatically when you run the installation. Simply follow the step by step installation. 
@@ -167,6 +168,7 @@ If you have any questions on Troubleshooting & Debugging, please ask the questio
 At this moment, I'm working to implement ETH and AEON mining into this project
 
 ## Mining Pool
+Monero XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
 * I am hosting a mining pool that i have modified to support javascript web mining. Use pool.cryptonoter.com:1111
 
 Modified to suit the capabilities of low end devices. Var diff with mechanism to prevent high-end hardware from using low end port. Low end device enjoy low difficulty with 90% valid shares while high end hardware mine at best possible hashes.
