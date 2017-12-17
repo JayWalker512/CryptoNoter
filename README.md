@@ -176,7 +176,8 @@ In a low difficulty pool, miners submit shares more often and hence results in h
 
 * Updates<br />
 15/12/17 - I am currently building up a low difficulty mining pool for XMR. Will include in this project once that's completed.<br />
-16/12/17 - The mining pool is setup & waiting for sync. In addition, i am working to edit the WebAssembly and recompile the .wasm file. If you are forking from this project, please kindly pull your updates.
+16/12/17 - The mining pool is setup & waiting for sync. In addition, i am working to edit the WebAssembly and recompile the .wasm file. If you are forking from this project, please kindly pull your updates.<br />
+17/12/17 - Custom mining pool modified for javascript web mining is built. Use pool.cryptonoter.com:1111 when you run javascript web mining
 
 Please consider a donation for my future developments. Thank you
 
