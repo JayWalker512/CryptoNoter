@@ -18,7 +18,7 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
 
 * Follow me at CryptoNoter Facebook Page: https://www.facebook.com/cryptonoter/ for regular updates on future developments.
 
-CryptoNoter Demo: https://www.cryptonoter.com/demo.php
+CryptoNoter Demo: https://www.cryptonoter.com/demo.php<br />
 XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
 
 ## Requirements
