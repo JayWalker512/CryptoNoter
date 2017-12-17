@@ -164,10 +164,10 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 If you have any questions on Troubleshooting & Debugging, please ask the questions or check for solutions here: https://github.com/cryptonoter/CryptoNoter/issues/1
 
 ## Future Developments
-At this moment, I'm working on the coding to make it compatible with majority of the CryptoNote currencies. In addition, i am also working to build a pool that supports in-browser javascript mining.
+At this moment, I'm working to implement ETH and AEON mining into this project
 
 ## Mining Pools
-* I am hosting a mining pool that i have modified to server javascript web mining.
+* I am hosting a mining pool that i have modified to supports javascript web mining.
 
 Modified to suit the capabilities of low end devices. Var diff with mechanism to prevent high-end hardware from using low end port. Low end device enjoy low difficulty with 90% valid shares while high end hardware mine at best possible hashes.
 
