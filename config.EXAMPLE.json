@@ -2,7 +2,7 @@
     "lhost": "127.0.0.1",
     "lport": 7777,
     "domain": "localhost",
-    "pool": "monero.us.to:1111",
+    "pool": "pool.cryptonoter.com:1111",
     "addr": "INPUT_YOUR_WALLET_ADDRESS",
     "pass": "x"
 }
