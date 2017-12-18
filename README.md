@@ -208,6 +208,8 @@ MJZZ9qq8ioAecyVDD7zMDStJXpY5thH2qC
 * PayPal Donation<br />
 And if you prefer the traditional mode, you may donate to this project via PayPal by sending the donation to my PayPal email: cryptonoter@gmail.com
 
+Last but not least, i am looking forward to hearing all of the great projects built upon this web miner project. If you've built something great, drop me an email so that i can share with my readers, users and friends.
+
 ## License
 MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
 
