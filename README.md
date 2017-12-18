@@ -193,6 +193,7 @@ SSH access with a sudo-enabled user will be needed for installs, preferably the 
 Please contact CryptoNoter at cryptonoter@gmail.com or facebook message at https://www.facebook.com/cryptonoter
 
 ## Donations To Support
+* There is NO DEV FEE hardcoded to this project. Donation is as per your goodwill to support my development.
 I am looking to add other cryptonote currencies support into this project and also to create a monero pool specifically for javascript browser mining. If you are interested in my future developments, i would really appreciate a small donation to support this project.
 ```html
 My Monero Wallet Address (XMR)
