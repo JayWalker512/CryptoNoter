@@ -9,7 +9,7 @@ if [ ! -n "$domain" ];then
     domain="localhost"
 fi
 if [ ! -n "$pool" ];then
-    pool="monero.us.to:1111"
+    pool="pool.cryptonoter.com:1111"
 fi
 while  [ ! -n "$addr" ];do
     read -p "Plesae set XMR wallet address!!! > " addr
