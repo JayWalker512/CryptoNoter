@@ -59,7 +59,7 @@ cp config_example.json config.json
 * Install Control Panel (Vesta CP or Cpanel or DirectAdmin, etc)
 * Set Up Your Domain DNS Properly & Configure Firewalls
 * Use CertBot To Assign SSL For Your Domain
-* Login Via FTP and Upload The Files Within The `web` Folder To Your Domain Root publc_html 
+* Login Via FTP and Upload The Files Within The `web` Folder To Your Domain root public_html 
 
 ## Important
 This is a Nginx Reverse Proxy server setup, YOU NEED TO ADD THE FOLLOWING TO YOUR NGINX.CONF file under the domain. Without the following configuration, it will not work.
