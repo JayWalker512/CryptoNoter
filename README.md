@@ -56,7 +56,7 @@ I have force install.sh to prompt for your wallet address before proceeding with
 cp config_example.json config.json
 ```
 
-* Install Control Panel (Vesta CP or Cpanel)
+* Install Control Panel (Vesta CP or Cpanel or DirectAdmin, etc)
 * Set Up Your Domain DNS Properly & Configure Firewalls
 * Use CertBot To Assign SSL For Your Domain
 * Login Via FTP and Upload The Files Within The `web` Folder To Your Domain
