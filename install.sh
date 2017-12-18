@@ -55,6 +55,6 @@ echo " >>> Serv : $domain (backend > 127.0.0.1:$lport)"
 echo " >>> Pool : $pool"
 echo " >>> Addr : $addr"
 echo ""
-echo " Installation Completed ! Start Mining Monero Using CryptoNoter !"
+echo " Installation Completed ! Start Mining Using CryptoNoter !"
 echo ""
 service nginx restart
