@@ -1,7 +1,7 @@
 read -p "[1] Listen Port (7777) > " lport
 read -p "[2] Your Domain (localhost) > " domain
 read -p "[3] Pool Host&Port (pool.cryptonoter.com:1111) > " pool
-read -p "[4] Your XMR wallet (important!!!) > " addr
+read -p "[4] Your XMR or ETN wallet (Important) > " addr
 if [ ! -n "$lport" ];then
     lport="7777"
 fi
