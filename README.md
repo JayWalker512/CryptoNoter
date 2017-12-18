@@ -1,9 +1,12 @@
-## CryptoNoter In-Browser Javascript XMR miner
+## CryptoNoter In-Browser Javascript Web Miner
 <img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
 `Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
-Open Source In-Browser Javascript XMR Miner For Websites / Payout towards personal XMR wallet<br />
-Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
+Open Source In-Browser Javascript Web Miner For Websites / Support XMR & ETN Coins<br />
+Built for in-browser javascript mining on any Monero (XMR) or Electroneum (ETN) pools. 0% Commission. Payout Towards Personal Wallet
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
+
+## UPDATES
+Project has been modified and updated. CryptoNoter now supports mining on both Monero (XMR) or Electroneum (ETN) pools. This is a huge step forward for this project and i aim to support majority of the cryptonote currencies in future. Please consider a donation for my developments. You donation will support this project greatly. To update your miner, go to /srv/CryptoNoter and run git pull.
 
 ## Why This Open Source Project Is Created
 * I hope that this project can act as a foundation for further developments into useful services. For example, it can be modified as a journalism gatekeeping mechanism or modified to help specific groups like graphic designers whom are offering their designs as royalty free or game developer offering background mining as a form of reward credit points to purchase in-game features. Let's think out of the box.
@@ -163,7 +166,7 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 For troubleshooting & debugging, you should open the issues at https://github.com/cryptonoter/CryptoNoter/issues/1 so that the community can replicate the bugs and help you out. I will be reading the issues frequently and will assist in troubleshooting.
 
 ## Future Developments
-At this moment, I'm working to implement ETN and AEON mining into this project
+At this moment, I'm working to implement AEON mining into this project
 
 ## Mining Pool
 Monero XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
@@ -173,12 +176,9 @@ Modified to suit the capabilities of low end devices. Var diff with mechanism to
 
 In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be costly for me to maintain a low difficulty pool, i would really appreciate a small donation to support this project.
 
-Please consider making a donation using my wallet address at the bottom of this page. Thank you very much
+Project has been modified and updated. CryptoNoter now supports mining on both Monero (XMR) or Electroneum (ETN) pools. To mine on ETN pools, simply change it to your ETN wallet address and point it to a Electroneum mining pool. Function is built into the project. No additional setting required.
 
-* Updates<br />
-15/12/17 - I am currently building up a low difficulty mining pool for XMR. Will include in this project once that's completed.<br />
-16/12/17 - The mining pool is setup & waiting for sync. In addition, i am working to edit the WebAssembly and recompile the .wasm file. If you are forking from this project, please kindly pull your updates.<br />
-17/12/17 - Custom mining pool modified for javascript web mining is built. Use `pool.cryptonoter.com:1111` when you run javascript web mining
+Please consider making a donation using my wallet address at the bottom of this page. Thank you very much
 
 ## Installation/Configuration Assistance
 If you need help installing the miner from scratch, please have your servers ready, which would be Ubuntu 16.04 servers, blank and clean, DNS records pointed. 
