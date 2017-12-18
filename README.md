@@ -17,7 +17,7 @@ Support Other Alternate Cryptocurrency? Discuss Here: https://github.com/crypton
 
 * Please do not abuse this project. It shouldn't be used without the user's consent or used for darkweb services. And i really do not wish to see my project being abused in illegal activities.
 
-* If you would like to support this project and my ongoing developments, please consider making a donation using my wallet address at the bottom of this page. Thank you very much
+* If you would like to support this project and my ongoing developments, please consider making a donation using my wallet or PayPal address at the bottom of this page. Thank you very much
 
 * Follow me at CryptoNoter Facebook Page: https://www.facebook.com/cryptonoter/ for regular updates on future developments.
 
