@@ -183,7 +183,7 @@ Please consider making a donation using my wallet address at the bottom of this 
 17/12/17 - Custom mining pool modified for javascript web mining is built. Use `pool.cryptonoter.com:1111` when you run javascript web mining
 
 ## Installation/Configuration Assistance
-If you need help installing the pool from scratch, please have your servers ready, which would be Ubuntu 16.04 servers, blank and clean, DNS records pointed. 
+If you need help installing the miner from scratch, please have your servers ready, which would be Ubuntu 16.04 servers, blank and clean, DNS records pointed. 
 
 Installation assistance is 1 XMR, with a 0.5 XMR deposit, with remainder to be paid on completion.
 Configuration & nginx optimization assistance is 1 XMR with a 0.5 XMR deposit, and include debugging your proxy configurations, ensuring that everything is running and tuned.
