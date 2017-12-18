@@ -6,11 +6,7 @@ Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% 
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
 
 ## Why This Open Source Project Is Created
-* Websites that use Javscript browser miners (Coinhive, Crypto-Loot, etc) are specifically targeted by most anti-virus softwares including the built-in Windows Defender. When visitors visit these websites, they will be notified that malicious codes / viruses have been detected on these websites. Well, you should know how such notifications affect the website. In addition, you get charged up to 30% commission by these javscript mining platforms.
-
-* This open source project is created to bypass detection and avoid being flagged as malicious websites by running your own Javscript Mining Server and deploying it on your websites. It is similar to Coinhive idea, however you do not have to be charged for any percent of your earnings. You can point to any Monero mining pool and get 100% for your mining efforts. (Of course, less the pool fees)
-
-* I hope that this project can act as a foundation for further developments into useful services. For example, it can be modified as a journalism gatekeeping mechanism or modified to help specific groups like graphic designers whom are offering their designs as royalty free. Let's think out of the box.
+* I hope that this project can act as a foundation for further developments into useful services. For example, it can be modified as a journalism gatekeeping mechanism or modified to help specific groups like graphic designers whom are offering their designs as royalty free or game developer offering background mining as a form of reward credit points to purchase in-game features. Let's think out of the box.
 
 * Please do not abuse this project. It shouldn't be used without the user's consent or used for darkweb services. And i really do not wish to see my project being abused in illegal activities.
 
