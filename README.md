@@ -134,7 +134,7 @@ In-Browser Javascript XMR miner for websites / Payout towards personal XMR walle
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
 
  Listen on : 127.0.0.1:7777
- Pool Host : monero.us.to:1111
+ Pool Host : pool.cryptonoter.com:1111
  Ur Wallet : YOUR_WALLET_ADDRESS
 ```
 If script executes unsucessfully, it should show error logs. Troubleshoot by referring to the errors shown.
