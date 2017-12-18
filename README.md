@@ -205,6 +205,9 @@ My Bitcoin Wallet Address (BTC)
 My Litecoin Wallet Address (LTC)
 MJZZ9qq8ioAecyVDD7zMDStJXpY5thH2qC
 ```
+```html
+And if you prefer the traditional mode, you may donate to this project via PayPal by sending the donation to my PayPal email: cryptonoter@gmail.com
+```
 
 ## License
 MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
