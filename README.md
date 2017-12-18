@@ -161,7 +161,7 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 For troubleshooting & debugging, you should open the issues at https://github.com/cryptonoter/CryptoNoter/issues/1 so that the community can replicate the bugs and help you out. I will be reading the issues frequently and will assist in troubleshooting.
 
 ## Future Developments
-At this moment, I'm working to implement ETH and AEON mining into this project
+At this moment, I'm working to implement ETN and AEON mining into this project
 
 ## Mining Pool
 Monero XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
