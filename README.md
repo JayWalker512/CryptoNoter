@@ -205,7 +205,8 @@ My Bitcoin Wallet Address (BTC)
 My Litecoin Wallet Address (LTC)
 MJZZ9qq8ioAecyVDD7zMDStJXpY5thH2qC
 ```
-```html
+```bash
+PayPal Donation
 And if you prefer the traditional mode, you may donate to this project via PayPal by sending the donation to my PayPal email: cryptonoter@gmail.com
 ```
 
