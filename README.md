@@ -83,7 +83,7 @@ data:    [0] tX4L /usr/bin/node /srv/CryptoNoter/server.js 7379    7385    /root
 * Make sure you have uploaded the `web` folder to your domain public_html or domain root. Ensure you can access https://YOUR_DOMAIN_NAME/demo.html
 
 * Change the settings for these files: worker.js, processor.js & lib/cryptonight-asmjs.min.js<br />
-Replace %CryptoNoter_domain% with your DOMAIN_NAME
+Replace %CryptoNoter_domain% with your DOMAIN_NAME in the 3 files. Including the following codes:
 
 ```html
 self.CryptoNoter = self.CryptoNoter || {};
@@ -162,7 +162,7 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 3. CryptoNoter not generating hashes. Check your config.json setting
 4. Check the setting of nginx.conf, config.json, worker.js, processor.js & cryptonight-asmjs.min.js
 
-If you have any questions on Troubleshooting & Debugging, please ask the questions or check for solutions here: https://github.com/cryptonoter/CryptoNoter/issues/1
+For troubleshooting & debugging, you should open the issues at https://github.com/cryptonoter/CryptoNoter/issues/1 so that the community can replicate the bugs and help you out. I will be reading the issues frequently and will assist in troubleshooting.
 
 ## Future Developments
 At this moment, I'm working to implement ETH and AEON mining into this project
@@ -181,6 +181,16 @@ Please consider making a donation using my wallet address at the bottom of this 
 15/12/17 - I am currently building up a low difficulty mining pool for XMR. Will include in this project once that's completed.<br />
 16/12/17 - The mining pool is setup & waiting for sync. In addition, i am working to edit the WebAssembly and recompile the .wasm file. If you are forking from this project, please kindly pull your updates.<br />
 17/12/17 - Custom mining pool modified for javascript web mining is built. Use `pool.cryptonoter.com:1111` when you run javascript web mining
+
+## Installation/Configuration Assistance
+If you need help installing the pool from scratch, please have your servers ready, which would be Ubuntu 16.04 servers, blank and clean, DNS records pointed. 
+
+Installation assistance is 1 XMR, with a 0.5 XMR deposit, with remainder to be paid on completion.
+Configuration & nginx optimization assistance is 1 XMR with a 0.5 XMR deposit, and include debugging your proxy configurations, ensuring that everything is running and tuned.
+
+SSH access with a sudo-enabled user will be needed for installs, preferably the user that is slated to run the miner.
+
+Please contact CryptoNoter at cryptonoter@gmail.com or facebook message at https://www.facebook.com/cryptonoter
 
 ## Donations To Support
 I am looking to add other cryptonote currencies support into this project and also to create a monero pool specifically for javascript browser mining. If you are interested in my future developments, i would really appreciate a small donation to support this project.
