@@ -8,6 +8,8 @@ Built for in-browser javascript mining on any Monero (XMR) or Electroneum (ETN) 
 ## UPDATES
 18/12/17 - Project has been modified and updated. CryptoNoter now supports mining for both Monero (XMR) and Electroneum (ETN) coins. This is a huge step forward for this project and i aim to support majority of the cryptonote currencies in future. Please consider a donation for my developments. You donation will support this project greatly. To update your miner, go to /srv/CryptoNoter and run git pull.
 
+<img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' />
+
 Support Other Alternate Cryptocurrency? Discuss Here: https://github.com/cryptonoter/CryptoNoter/issues/14
 
 ## Why This Open Source Project Is Created
