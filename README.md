@@ -218,7 +218,11 @@ And if you prefer the traditional mode, you may donate to this project via PayPa
 
 Last but not least, i am looking forward to hearing all of the great projects built upon this web miner project. If you've built something great, drop me an email so that i can share with my readers, users and friends.
 
-## Credits
+## Credits For Donations
+Please email me at cryptonoter@gmail.com after making a donation so that i can add your names under Credits. This project requires continuous funding so please help if you can. Here are the individuals whom have supported with donations towards this project:
+@adnaydenov @cryptodarkload @moshisatis @jasnsye @kimkingmos @firewallguards @techmoslsur @minnygurys and other anonymous users whom choose to remain anonymous!
+
+## Credits For Support & Troubleshooting
 Thanks to @tamerzg for identifying bugs on my updates and helping other users on troubleshooting.
 
 ## License
