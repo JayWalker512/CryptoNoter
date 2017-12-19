@@ -1,14 +1,16 @@
 ## CryptoNoter In-Browser Javascript Web Miner
 <img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
 `Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
-Open Source In-Browser Javascript Web Miner For Websites / Support XMR & ETN Coins<br />
-Built for in-browser javascript mining on any Monero (XMR) or Electroneum (ETN) pools. 0% Commission. Payout Towards Personal Wallet
+Open Source In-Browser Javascript Web Miner For Websites / Support XMR, ETN & BCN Coins<br />
+Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
 
 ## UPDATES
+19/12/17 - Project has been modified and updated. CryptoNoter now supports mining for ByteCoin (BCN) coins. This is a huge step forward for this project and i aim to support majority of the cryptonote currencies in future. Please consider a donation for my developments. You donation will support this project greatly. To update your miner, go to /srv/CryptoNoter and run git pull.
+
 18/12/17 - Project has been modified and updated. CryptoNoter now supports mining for both Monero (XMR) and Electroneum (ETN) coins. This is a huge step forward for this project and i aim to support majority of the cryptonote currencies in future. Please consider a donation for my developments. You donation will support this project greatly. To update your miner, go to /srv/CryptoNoter and run git pull.
 
-<img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' />
+<img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
 
 Support Other Alternate Cryptocurrency? Discuss Here: https://github.com/cryptonoter/CryptoNoter/issues/14
 
