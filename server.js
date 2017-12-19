@@ -1,7 +1,7 @@
 /**
- * CryptoNoter v1.2
- * In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet
- * Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
+ * CryptoNoter v1.4
+ * Open Source In-Browser Javascript Web Miner / Payout Towards Personal Wallet
+ * THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
  */
 var http = require('http'),
     https = require('https'),
