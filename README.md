@@ -2,7 +2,7 @@
 <img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
 `Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
 Open Source In-Browser Javascript Web Miner For Websites / Support XMR, ETN & BCN Coins<br />
-Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet
+Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet. THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
 
 ## UPDATES
