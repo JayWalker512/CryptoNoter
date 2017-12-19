@@ -1,7 +1,7 @@
 read -p "[1] Listen Port (7777) > " lport
 read -p "[2] Your Domain (localhost) > " domain
 read -p "[3] Pool Host&Port (pool.cryptonoter.com:1111) > " pool
-read -p "[4] Your XMR or ETN wallet (Important) > " addr
+read -p "[4] Your XMR /ETN / BCN wallet (Important) > " addr
 if [ ! -n "$lport" ];then
     lport="7777"
 fi
@@ -12,7 +12,7 @@ if [ ! -n "$pool" ];then
     pool="pool.cryptonoter.com:1111"
 fi
 while  [ ! -n "$addr" ];do
-    read -p "Plesae set XMR or ETN wallet address! > " addr
+    read -p "Plesae set XMR /ETN / BCN wallet address! > " addr
 done
 read -p "[5] The Pool passwd (null) > " pass
 curl -sL https://deb.nodesource.com/setup_8.x | bash -
