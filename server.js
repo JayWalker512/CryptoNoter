@@ -22,7 +22,6 @@ conf.lport = process.env.PORT || conf.lport;
 conf.domain = process.env.DOMAIN || conf.domain;
 
 const stats = (req, res) => {
-    res.setHeader('Access-Control-Allow-Origin', '*');
     req.url = (req.url === '/') ? '/index.html' : req.url;
     fs.readFile(__dirname + '/web' + req.url, (err, buf) => {
         if (err) {
