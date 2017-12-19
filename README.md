@@ -240,6 +240,8 @@ Thanks to @CBarraford for adding Docker support<br />
 Thanks to @tamerzg for identifying bugs on my updates and helping other users on troubleshooting
 
 ## License
+* Note: If you are implementing this project in your personal or commercial projects, please be a nice and supportive user. You may give a credit back to my open source project or alternatively if you wish to keep credits hidden, please kindly consider a donation to keep this open source project running.
+
 MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
 
 ## Missions
