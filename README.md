@@ -236,7 +236,8 @@ Please email me at cryptonoter@gmail.com after making a donation so that i can a
 @adnaydenov @cryptodarkload @moshisatis @jasnsye @kimkingmos @firewallguards @techmoslsur @minnygurys and other anonymous users whom choose to remain anonymous!
 
 ## Credits For Support & Troubleshooting
-Thanks to @tamerzg for identifying bugs on my updates and helping other users on troubleshooting.
+Thanks to @CBarraford for adding Docker support<br />
+Thanks to @tamerzg for identifying bugs on my updates and helping other users on troubleshooting
 
 ## License
 MIT https://raw.github.com/cryptonoter/CryptoNoter/master/LICENSE
