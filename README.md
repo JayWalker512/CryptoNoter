@@ -8,7 +8,7 @@ Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & 
 ## UPDATES
 19/12/17 - Project has been modified and updated. CryptoNoter now supports mining for ByteCoin (BCN), Monero (XMR) and Electroneum (ETN) coins. This is a huge step forward for this project and i aim to support majority of the cryptonote currencies in future. Please consider a donation for my developments. You donation will support this project greatly. To update your miner, go to /srv/CryptoNoter and run git pull.
 
-18/12/17 - Project has been modified and updated. CryptoNoter now supports mining for both Monero (XMR) and Electroneum (ETN) coins.
+18/12/17 - CryptoNoter now supports mining for both Monero (XMR) and Electroneum (ETN) coins.
 
 <img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
 
@@ -182,7 +182,7 @@ Modified to suit the capabilities of low end devices. Var diff with mechanism to
 
 In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be costly for me to maintain a low difficulty pool, i would really appreciate a small donation to support this project.
 
-Project has been modified and updated. CryptoNoter now supports mining on both Monero (XMR) or Electroneum (ETN) pools. To mine on ETN pools, simply change it to your ETN wallet address and point it to a Electroneum mining pool. Function is built into the project. No additional setting required.
+Project has been modified and updated. CryptoNoter now supports mining on Monero (XMR), Electroneum (ETN) and ByteCoin (BCN) pools. To mine on ETN or BCN pools, simply change it to your ETN or BCN wallet address and point it to a Electroneum or ByteCoin mining pool. Likewise for other cryptonote coin support. Function is built into the project. No additional setting required.
 
 Please consider making a donation using my wallet address at the bottom of this page. Thank you very much
 
