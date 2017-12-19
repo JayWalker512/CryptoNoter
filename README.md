@@ -43,6 +43,18 @@ However, if you decide to modify or optimize CryptoNoter for maximum mining capa
 
 `IMPORTANT NOTE:` DO NOT USE GOOGLE COMPUTE ENGINE (GCE) or other related Google Cloud Services for crypto-mining services. It is in violation of their TOS. Google will suspend your account, lock your files and charge you for the usage. Been there, done that. So don't waste your precious time.
 
+## Docker
+You can run CryptoNoter within a docker container. See
+[https://hub.docker.com/r/cbarraford/cryptonoter-docker/](https://hub.docker.com/r/cbarraford/cryptonoter-docker/)
+for more info.
+
+NOTE: The docker image is manually built, and therefore may not be running the
+lastest version of CryptoNoter code.
+
+```
+docker pull cbarraford/cryptonoter-docker
+```
+
 ## Installation
 Install CryptoNoter
 ```bash
