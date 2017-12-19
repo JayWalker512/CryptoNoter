@@ -216,7 +216,7 @@ And if you prefer the traditional mode, you may donate to this project via PayPa
 
 Last but not least, i am looking forward to hearing all of the great projects built upon this web miner project. If you've built something great, drop me an email so that i can share with my readers, users and friends.
 
-## Contribution Credits
+## Credits
 Thanks to @tamerzg for identifying bugs on my updates.
 
 ## License
