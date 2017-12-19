@@ -181,7 +181,7 @@ Error: listen EADDRINUSE 127.0.0.1:7777
 2. Connection errors are commonly casused by iptables. Check your firewall settings
 3. CryptoNoter not generating hashes. Check your config.json setting
 4. Check the setting of nginx.conf, config.json, worker.js, processor.js & cryptonight-asmjs.min.js
-5. Please remember to change the domain url at demo.html to point to your own domain:
+5. Very Common Issue: Please remember to change the domain url at demo.html to point to your own domain:
 ```html
 <script src="https://%CHANGE TO YOUR DOMAIN%/processor.js"></script>
 ```
