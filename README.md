@@ -191,7 +191,7 @@ For issues related to Proxy and Access Control Allow Origin, please read here: h
 For troubleshooting & debugging, you should open the issues at https://github.com/cryptonoter/CryptoNoter/issues so that the community can replicate the bugs and help you out. I will be reading the issues frequently and will assist in troubleshooting.
 
 ## Future Developments
-At this moment, I'm working to implement AEON mining into this project
+At this moment, I'm working to implement Sumokoin & Intense Coin support into this project
 
 ## Mining Pool
 Monero XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
