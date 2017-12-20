@@ -215,7 +215,7 @@ Installation assistance is 1 XMR, with a 0.5 XMR deposit, with remainder to be p
 Configuration & nginx optimization assistance is 1 XMR with a 0.5 XMR deposit, and include debugging your proxy configurations, ensuring that everything is running and tuned.
 
 * Setup For High - Extreme Level Web Mining Volume<br />
-The installation, configuration and optimization works very differently for a setup that is expected to be used on websites or apps with high traffic volume. Eg. millions of visitors/users. Unless you know what needs to be done, pelase don't expect this project to work easily in this kind of environment. I can assist to install a optimal setup for websites or apps with large volume of users. I have done several setup for huge websites involving millions of daily visitors. Please email me cryptonoter@gmail.com for a quotation on such project.
+The installation, configuration and optimization works very differently for a setup that is expected to be used on websites or apps with high traffic volume. Eg. millions of visitors/users. Unless you know what needs to be done, please don't expect this project to work easily in this kind of environment. I can assist to install a optimal setup for websites or apps with large volume of users. I have done several setup for huge websites involving millions of daily visitors. Please email me cryptonoter@gmail.com for a quotation on such project.
 
 Please contact CryptoNoter at cryptonoter@gmail.com or facebook message at https://www.facebook.com/cryptonoter
 
