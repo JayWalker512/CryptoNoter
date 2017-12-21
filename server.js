@@ -11,8 +11,13 @@ var http = require('http'),
     crypto = require("crypto");
 
 var banner = fs.readFileSync(__dirname + '/banner', 'utf8');
-var conf = fs.readFileSync(__dirname + '/config.json', 'utf8');
-conf = JSON.parse(conf);
+
+var conf = {};
+// check if config file exists
+if (fs.existsSync(__dirname + '/config.json')) {
+  var conf = fs.readFileSync(__dirname + '/config.json', 'utf8');
+  conf = JSON.parse(conf);
+}
 
 //heroku port
 conf.lport = process.env.PORT || conf.lport;
