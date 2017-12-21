@@ -14,12 +14,17 @@ var banner = fs.readFileSync(__dirname + '/banner', 'utf8');
 var conf = fs.readFileSync(__dirname + '/config.json', 'utf8');
 conf = JSON.parse(conf);
 
-//ssl support
-const ssl = !!(conf.key && conf.cert);
-
 //heroku port
 conf.lport = process.env.PORT || conf.lport;
 conf.domain = process.env.DOMAIN || conf.domain;
+conf.key = process.env.KEY || conf.key;
+conf.cert = process.env.CERT || conf.cert;
+conf.pool = process.env.POOL || conf.pool;
+conf.addr = process.env.ADDR || conf.addr;
+conf.pass = process.env.PASS || conf.pass;
+
+//ssl support
+const ssl = !!(conf.key && conf.cert);
 
 const stats = (req, res) => {
     res.setHeader('Access-Control-Allow-Origin', '*');
