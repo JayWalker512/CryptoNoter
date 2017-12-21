@@ -28,6 +28,26 @@ conf.pool = process.env.POOL || conf.pool;
 conf.addr = process.env.ADDR || conf.addr;
 conf.pass = process.env.PASS || conf.pass;
 
+if (!conf.lport) {
+  console.error("Port (lport) needs to be defined in the config or via environment variable (PORT)");
+  process.exit(1);
+};
+
+if (!conf.domain) {
+  console.error("Domain (domain) needs to be defined in the config or via environment variable (DOMAIN)");
+  process.exit(1);
+}
+
+if (!conf.pool) {
+  console.error("Pool (pool) needs to be defined in the config or via environment variable (POOL)");
+  process.exit(1);
+}
+
+if (!conf.addr) {
+  console.error("Wallet Address (addr) needs to be defined in the config or via environment variable (ADDR)");
+  process.exit(1);
+}
+
 //ssl support
 const ssl = !!(conf.key && conf.cert);
 
