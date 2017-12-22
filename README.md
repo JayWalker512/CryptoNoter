@@ -221,7 +221,7 @@ The installation, configuration and optimization works very differently for a se
 * Custom Coding<br />
 If you require custom coding that is different from CryptoNoter or wish to be different from the open source repository, please feel free to email me for a quotation.
 
-Please contact CryptoNoter at cryptonoter@gmail.com or facebook message at https://www.facebook.com/cryptonoter
+If you are a medium to large website looking at a custom webassembly that is unique. You may contact me at cryptonoter@gmail.com for a quotation or facebook message at https://www.facebook.com/cryptonoter
 
 ## Donations To Support
 * There is NO DEVELOPER FEE hardcoded into this project. Donation is as per your goodwill to support my development.
