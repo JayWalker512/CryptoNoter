@@ -211,11 +211,11 @@ If you need help installing the miner from scratch, please have your servers rea
 
 SSH access with a sudo-enabled user will be needed for installs, preferably the user that is slated to run the miner.
 
-* Setup For Low - Mid Level Web Mining Volume<br />
+* Setup For Low Level Web Mining Volume<br />
 Installation assistance is 1 XMR, with a 0.5 XMR deposit, with remainder to be paid on completion.
 Configuration & nginx optimization assistance is 1 XMR with a 0.5 XMR deposit, and include debugging your proxy configurations, ensuring that everything is running and tuned.
 
-* Setup For High - Extreme Level Web Mining Volume<br />
+* Setup For Mid - Extreme Level Web Mining Volume<br />
 The installation, configuration and optimization works very differently for a setup that is expected to be used on websites or apps with high traffic volume. Eg. millions of visitors/users. Unless you know what needs to be done, please don't expect this project to work stably & efficiently in that kind of environment. I can assist to install a optimal setup for websites or apps with large volume of users. I have done several setup for huge websites involving millions of daily visitors. Please email me cryptonoter@gmail.com for a quotation on such project.
 
 * Custom Coding<br />
