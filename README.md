@@ -221,9 +221,9 @@ The installation, configuration and optimization works very differently for a se
 If you are a medium to large website looking at a custom webassembly that is unique. You may contact me at cryptonoter@gmail.com for a quotation or facebook message at https://www.facebook.com/cryptonoter
 
 ## ATTENTION ON NEW PROPOSED MODEL FOR CUSTOM MINER
-Some users have feedback that they are unwilling to invest big amount in terms of costs into web mining because they do not know how long this web mining trend will last. However, they do not wish to use Coinhive or other related services due to malware and virus notifications towards users.
+Some users have feedback that they are unwilling to invest big amount in terms of setup costs because they do not know how long this web mining trend will last. At the same time, they do not wish to use Coinhive or other related services due to malware and virus notifications towards users.
 
-They've proposed a profit sharing model for my installation, configuration and optimization of a custom miner. Since it is holiday season, i've accepted the proposal and done up a few setup based on this model. This is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repo on GitHub.
+Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a custom miner. Since it is holiday season, i've accepted the proposal and done up a few setup based on this model. This is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repo on GitHub.
 
 * New Proposed Model For Custom Javascript Web Miner:
 1) Low Upfront Fees
