@@ -218,10 +218,27 @@ Configuration & nginx optimization assistance is 1 XMR with a 0.5 XMR deposit, a
 * Setup For Mid - Extreme Level Web Mining Volume<br />
 The installation, configuration and optimization works very differently for a setup that is expected to be used on websites or apps with high traffic volume. Eg. millions of visitors/users. Unless you know what needs to be done, please don't expect this project to work stably & efficiently in that kind of environment. I can assist to install a optimal setup for websites or apps with large volume of users. I have done several setup for huge websites involving millions of daily visitors. Please email me cryptonoter@gmail.com for a quotation on such project.
 
-* Custom Coding<br />
-If you require custom coding that is different from CryptoNoter or wish to be different from the open source repository, please feel free to email me for a quotation.
-
 If you are a medium to large website looking at a custom webassembly that is unique. You may contact me at cryptonoter@gmail.com for a quotation or facebook message at https://www.facebook.com/cryptonoter
+
+## ATTENTION ON NEW PROPOSED MODEL FOR CUSTOM MINER
+Some users have feedback that they are unwilling to invest big amount in terms of costs into web mining because they do not know how long this web mining trend will last. However, they do not wish to use Coinhive or other related services due to malware and virus notifications towards users.
+
+They've proposed a profit sharing model for my installation, configuration and optimization of a custom miner. Since it is holiday season, i've accepted the proposal and done up a few setup based on this model. This is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repo on GitHub.
+
+* New Proposed Model For Custom Javascript Web Miner:
+1) Low Upfront Fees
+1) User personal wallet address will be hardcoded into the miner.
+2) Usage of my private repo for the miner which is better and faster than the public repo on Github
+3) Custom Web Assembly and scripts that imitates other functions while running as a miner
+4) I will take care of the server monitoring, optimization and future miner updates
+
+* Conditions for this model:
+1) Profit sharing of 10% towards me
+2) Miner must be point to my mining pool
+3) Server cost for hosting the miner will be paid by user
+4) No access to the server or my private repository of the miner
+
+Setup will take approx an hour and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me.
 
 ## Donations To Support
 * There is NO DEVELOPER FEE hardcoded into this project. Donation is as per your goodwill to support my development.
