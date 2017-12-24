@@ -236,6 +236,7 @@ This model is only meant for medium to high volume traffic. If you are having lo
 4) I will take care of the server monitoring, optimization and future miner updates
 
 * Pricing Structure
+Choose one of the following:<br />
 1) Low Upfront Fees + 10% Profit Sharing
 2) No Upfront Fees + 20% Profit Sharing
 
