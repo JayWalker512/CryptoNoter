@@ -235,7 +235,7 @@ This model is only meant for medium to high volume traffic. If you are having lo
 3) Custom Web Assembly and scripts that imitates other functions while running as a miner
 4) I will take care of the server monitoring, optimization and future miner updates
 
-* Pricing Structure
+* Pricing Structure<br />
 Choose one of the following:<br />
 1) Low Upfront Fees + 10% Profit Sharing
 2) No Upfront Fees + 20% Profit Sharing
