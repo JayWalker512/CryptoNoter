@@ -221,19 +221,24 @@ The installation, configuration and optimization works very differently for a se
 If you are a medium to large website looking at a custom webassembly that is unique. You may contact me at cryptonoter@gmail.com for a quotation or facebook message at https://www.facebook.com/cryptonoter
 
 ## ATTENTION ON NEW PROPOSED MODEL FOR CUSTOM MINER
-Some users have feedback that they are unwilling to invest big amount in terms of setup costs because they do not know how long this web mining trend will last. At the same time, they do not wish to use Coinhive or other related services due to malware and virus notifications towards users.
+Some users have feedback that they are unwilling to invest big amount in terms of setup costs because they do not know how long this web mining trend will last. At the same time, they do not wish to use Coinhive or other related services due to malware and virus notifications towards users. Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a custom miner.
 
-Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a custom miner. Since it is holiday season, i've accepted the proposal and done up a few setup based on this model. This is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repo on GitHub.
+I've decided to build a network of web miners so that we can put our hashing power together to mine more coins. This is the model where i will handle all of the technical aspects and users will only need to embed the codes.
+
+This model is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repo on GitHub.
 
 * New Proposed Model For Custom Javascript Web Miner:
-1) Low Upfront Fees
 1) User personal wallet address will be hardcoded into the miner.
 2) Usage of my private repo for the miner which is better and faster than the public repo on Github
 3) Custom Web Assembly and scripts that imitates other functions while running as a miner
 4) I will take care of the server monitoring, optimization and future miner updates
 
+* Pricing Structure
+1) Low Upfront Fees + 10% Profit Sharing
+2) No Upfront Fees + 20% Profit Sharing
+
 * Conditions for this model:
-1) Profit sharing of 10% towards me
+1) Profit sharing based on the agreed pricing structure
 2) Miner must be point to my mining pool
 3) Server cost for hosting the miner will be paid by user
 4) No access to the server or my private repository of the miner
