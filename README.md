@@ -237,7 +237,7 @@ This model is only meant for medium to high volume traffic. If you are having lo
 
 * Pricing Structure<br />
 Choose one of the following:<br />
-1) Low Upfront Fees + 10% Profit Sharing
+1) Upfront Fees + 10% Profit Sharing
 2) No Upfront Fees + 20% Profit Sharing
 
 * Conditions for this model:
