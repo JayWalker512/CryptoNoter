@@ -63,18 +63,6 @@ I have force install.sh to prompt for your wallet address before proceeding with
 cd /srv/CryptoNoter
 cp config.EXAMPLE.json config.json
 ```
-
-### Configuration w/ Environment Variables
-It is possible to configure CryptoNoter with environment variables alone. This
-is helpful in some cases like docker and heroku.
-    * DOMAIN - domain of your server
-    * PORT - port your server should run on
-    * POOL - the mining pool to join (ie `pool.cryptonoter.com:1111`)
-    * ADDR - Your wallet address
-    * PASS - Your password
-    * KEY - ssl key filepath
-    * CERT - ssl cert filepath
-
 * Install Control Panel (Vesta CP or Cpanel or DirectAdmin, etc)
 * Set Up Your Domain DNS Properly & Configure Firewalls
 * Use CertBot To Assign SSL For Your Domain
@@ -91,6 +79,16 @@ lastest version of CryptoNoter code.
 ```
 docker pull cbarraford/cryptonoter-docker
 ```
+### Configuration w/ Environment Variables
+It is possible to configure CryptoNoter with environment variables alone. This
+is helpful in some cases like docker and heroku.
+    * DOMAIN - domain of your server
+    * PORT - port your server should run on
+    * POOL - the mining pool to join (ie `pool.cryptonoter.com:1111`)
+    * ADDR - Your wallet address
+    * PASS - Your password
+    * KEY - ssl key filepath
+    * CERT - ssl cert filepath
 
 ## Important
 This is a Nginx Reverse Proxy server setup, YOU NEED TO ADD THE FOLLOWING TO YOUR NGINX.CONF file under the domain. Without the following configuration, it will not work.
