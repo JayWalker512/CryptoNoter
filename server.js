@@ -11,15 +11,45 @@ var http = require('http'),
     crypto = require("crypto");
 
 var banner = fs.readFileSync(__dirname + '/banner', 'utf8');
-var conf = fs.readFileSync(__dirname + '/config.json', 'utf8');
-conf = JSON.parse(conf);
 
-//ssl support
-const ssl = !!(conf.key && conf.cert);
+var conf = {};
+// check if config file exists
+if (fs.existsSync(__dirname + '/config.json')) {
+  var conf = fs.readFileSync(__dirname + '/config.json', 'utf8');
+  conf = JSON.parse(conf);
+}
 
 //heroku port
 conf.lport = process.env.PORT || conf.lport;
 conf.domain = process.env.DOMAIN || conf.domain;
+conf.key = process.env.KEY || conf.key;
+conf.cert = process.env.CERT || conf.cert;
+conf.pool = process.env.POOL || conf.pool;
+conf.addr = process.env.ADDR || conf.addr;
+conf.pass = process.env.PASS || conf.pass;
+
+if (!conf.lport) {
+  console.error("Port (lport) needs to be defined in the config or via environment variable (PORT)");
+  process.exit(1);
+};
+
+if (!conf.domain) {
+  console.error("Domain (domain) needs to be defined in the config or via environment variable (DOMAIN)");
+  process.exit(1);
+}
+
+if (!conf.pool) {
+  console.error("Pool (pool) needs to be defined in the config or via environment variable (POOL)");
+  process.exit(1);
+}
+
+if (!conf.addr) {
+  console.error("Wallet Address (addr) needs to be defined in the config or via environment variable (ADDR)");
+  process.exit(1);
+}
+
+//ssl support
+const ssl = !!(conf.key && conf.cert);
 
 const stats = (req, res) => {
     req.url = (req.url === '/') ? '/index.html' : req.url;
