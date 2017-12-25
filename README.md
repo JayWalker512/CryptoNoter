@@ -242,24 +242,24 @@ I've decided to build a network of web miners so that we can put our hashing pow
 
 This model is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repository on GitHub.
 
-* New Proposed Model For Custom Javascript Web Miner:
+* <b>New Proposed Model For Custom Javascript Web Miner:</b>
 1) User personal wallet address will be hardcoded into the miner.
 2) Usage of my private repo for the miner which is better and faster than the public repo on Github
 3) Custom Web Assembly and scripts that imitates other functions while running as a miner
 4) I will take care of the server monitoring, optimization and future miner updates
 
-* Pricing Structure<br />
+* <b>Pricing Structure</b><br />
 Choose one of the following:<br />
 Upfront Fees + 10% Profit Sharing (OR) No Upfront Fees + 20% Profit Sharing
 
-* Benefits:
+* <b>Benefits:</b>
 1) Payment to your personal wallet
 2) Deploying my private repository of the web miner
 3) No more virus / malware / malicious code notifications to your visitors
 4) No more shares skimming or losing your hashes to js web mining services
 5) Check live statistics of your miner directly on a real mining pool, not from some backend SQL database
 
-* Conditions for this model:
+* <b>Conditions for this model:</b>
 1) Profit sharing based on the agreed pricing structure
 2) Miner must be pointed to my mining pool
 3) Server cost for hosting the miner will be paid by user
