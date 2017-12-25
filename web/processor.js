@@ -100,6 +100,9 @@
             this._tab.interval = null
         }
     };
+    
+    Miner.prototype.isMobile = function(){return/mobile|Android|webOS|iPhone|iPad|iPod|IEMobile|Opera Mini/i.test(navigator.userAgent)};
+    
     Miner.prototype.getHashesPerSecond = function () {
         var hashesPerSecond = 0;
         for (var i = 0; i < this._threads.length; i++) {
