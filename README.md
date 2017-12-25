@@ -9,6 +9,8 @@ Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & 
 ## UPDATES
 <img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
 
+25/12/16 - Added Javascript API Documentation of CryptoNoter. Refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter
+
 24/12/16 - I am building a network of javascript web miners with my private repository. Interested parties, please read here: https://www.facebook.com/notes/cryptonotercom/attention-on-new-proposed-model-for-custom-miner/1907073142881350/
 
 19/12/17 - Project has been modified and updated. CryptoNoter now supports mining for ByteCoin (BCN), Monero (XMR) and Electroneum (ETN) coins. This is a huge step forward for this project and i aim to support majority of the cryptonote currencies in future. Please consider a donation for my developments. You donation will support this project greatly. To update your miner, go to /srv/CryptoNoter and run git pull.
@@ -140,7 +142,7 @@ self.CryptoNoter.CONFIG = {
 Have a look at CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
 ## JS Miner API Documentation
-There are parameters that you can preset within the javscript miner script. Full the full documentation, please refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter 
+There are parameters that you can preset within the javscript miner script. Full the <b>Full API Documentation</b>, please refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter 
 
 *`autothreads(value)`
 The number of threads the miner should start with. Set to true is to auto detect the number of CPU cores available on the user's computer.
