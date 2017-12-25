@@ -140,7 +140,7 @@ self.CryptoNoter.CONFIG = {
 Have a look at CryptoNoter Demo: https://www.cryptonoter.com/demo.php
 
 ## JS Miner API Documentation
-There are parameters that you can preset within the javscript miner script. Full the <b>Full API Documentation</b>, please refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter 
+There are parameters that you can preset within the javscript miner script. Read the <b>Full API Documentation</b>, please refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter 
 
 *`autothreads(value)`
 The number of threads the miner should start with. Set to true is to auto detect the number of CPU cores available on the user's computer.
