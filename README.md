@@ -4,7 +4,7 @@
 Open Source In-Browser Javascript Web Miner For Websites / Support XMR, ETN & BCN Coins<br />
 Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet. THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
-* CoinHive VS CryptoNoter In Terms of Malicious Coding & Virus Flags. Read here: <a href='https://github.com/cryptonoter/CryptoNoter/issues/30' />https://github.com/cryptonoter/CryptoNoter/issues/30</a>
+* CoinHive VS CryptoNoter In Terms of Malicious Coding & Virus Flags. Read here: https://github.com/cryptonoter/CryptoNoter/issues/30
 
 ## UPDATES
 <img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
