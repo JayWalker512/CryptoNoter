@@ -267,7 +267,7 @@ Upfront Fees + 10% Profit Sharing (OR) No Upfront Fees + 20% Profit Sharing
 3) Server cost for hosting the miner will be paid by user
 4) No access to the server or my private repository of the miner
 
-Setup will take approx an hour and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me.
+Setup will take approx 30 mins and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me.
 
 ## Donations To Support
 * There is NO DEVELOPER FEE hardcoded into this project. Donation is as per your goodwill to support my development.
