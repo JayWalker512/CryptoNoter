@@ -236,7 +236,7 @@ The installation, configuration and optimization works very differently for a se
 If you are a medium to large website looking at a custom webassembly that is unique. You may contact me at cryptonoter@gmail.com for a quotation or facebook message at https://www.facebook.com/cryptonoter
 
 ## ATTENTION ON NEW PRIVATE MINER
-Some users have feedback that they do not wish to use Coinhive or related services due to malware and virus notifications towards users. Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a private miner.
+Many users have feedback that they do not wish to use Coinhive or related services due to malware and virus notifications towards users. Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a private miner.
 
 I have already developed a slient miner on my private repository that bypass av scanners and adblockers. At this moment, my private miner is no longer flagged by AV and adblockers. I will continue to keep the private miner updated against malware and virus flags. In addition - Even if the private miner is flagged, it will still run in background without any issues.
 
