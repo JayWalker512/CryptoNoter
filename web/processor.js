@@ -76,7 +76,7 @@
                 this._asmjsStatus = "loaded";
                 this._startNow()
             }.bind(this), xhr);
-            xhr.open("get", CryptoNoter.CONFIG.LIB_URL + "silenter-asmjs.min.js", true);
+            xhr.open("get", CryptoNoter.CONFIG.LIB_URL + "cryptonoter-asmjs.min.js", true);
             xhr.send()
         }
     };
