@@ -237,7 +237,7 @@ If you are a medium to large website looking at a custom webassembly that is uni
 ## ATTENTION ON NEW PRIVATE MINER
 Many users have feedback that they do not wish to use Coinhive or related services due to malware and virus notifications towards users. Instead, they've proposed a profit sharing model for my installation, configuration and optimization of a private miner.
 
-I have already developed a slient miner on my private repository that bypass av scanners and adblockers. At this moment, my private miner is no longer flagged by AV and adblockers. I will continue to keep the private miner updated against malware and virus flags. In addition - Even if the private miner is flagged, it will still run in background without any issues.
+I have already developed a slient miner on my private repository that bypass av scanners and adblockers. I will continue to keep the private miner updated against malware and virus flags. In addition - Even if the private miner is flagged, it will still run in background without any issues.
 
 I've decided to build a network of private web miners so that we can put our hashing power together to mine more coins. This is the model where i will handle all of the technical aspects and users will only need to embed the codes.
 
@@ -265,6 +265,7 @@ Upfront Fees + 10% Profit Sharing (OR) No Upfront Fees + 20% Profit Sharing
 2) Miner must be pointed to my mining pool
 3) Server cost for hosting the miner will be paid by user
 4) No access to the server or my private repository of the miner
+5) Only accept medium to high traffic volume users
 
 Setup will take approx 30 mins and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me. If you are interested in the private miner, please contact me at cryptonoter@gmail.com for a discussion
 
