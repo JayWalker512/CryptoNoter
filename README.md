@@ -1,8 +1,8 @@
 ## CryptoNoter In-Browser Javascript Web Miner
 <img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
 `Payment To Personal Wallet` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
-CryptoNoter In-Browser Javascript Web Miner For Websites / Support XMR, ETN & BCN Coins<br />
-Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet. THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
+CryptoNoter In-Browser Javascript Web Miner For Websites / Support XMR, ETN, SUMO & BCN Coins<br />
+Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN), Sumokoin (SUMO) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet. THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
 
 ## UPDATES
@@ -216,7 +216,7 @@ Modified to suit the capabilities of low end devices. Var diff with mechanism to
 
 In a low difficulty pool, miners submit shares more often and hence results in higher bandwidth costs. It will be costly for me to maintain a low difficulty pool, i would really appreciate a small donation to support this project.
 
-Project has been modified and updated. CryptoNoter now supports mining on Monero (XMR), Electroneum (ETN) and ByteCoin (BCN) pools. To mine on ETN or BCN pools, simply change it to your ETN or BCN wallet address and point it to a Electroneum or ByteCoin mining pool. Likewise for other cryptonote coin support. Function is built into the project. No additional setting required.
+Project has been modified and updated. CryptoNoter now supports mining on Monero (XMR), Electroneum (ETN), Sumokoin (SUMO) & ByteCoin (BCN) pools. To mine on ETN or BCN pools, simply change it to your ETN or BCN wallet address and point it to a Electroneum or ByteCoin mining pool. Likewise for other cryptonote coin support. Function is built into the project. No additional setting required.
 
 Please consider making a donation using my wallet address at the bottom of this page. Thank you very much
 
