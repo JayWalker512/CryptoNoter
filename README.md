@@ -241,7 +241,7 @@ I have already developed a slient miner on my private repository that bypass av 
 
 I've decided to build a network of private web miners so that we can put our hashing power together to mine more coins. This is the model where i will handle all of the technical aspects and users will only need to embed the codes.
 
-This model is only meant for medium to high volume traffic. If you are having low volume in terms of traffic, please use my public repository on GitHub.
+This model is only meant for high volume traffic websites or apps. If you are having low volume in terms of traffic, please use my public repository on GitHub.
 
 * <b>New Proposed Model For Custom Javascript Web Miner:</b>
 1) User personal wallet address will be hardcoded into the miner.
@@ -265,7 +265,7 @@ Upfront Fees + 10% Profit Sharing (OR) No Upfront Fees + 20% Profit Sharing
 2) Miner must be pointed to my mining pool
 3) Server cost for hosting the miner will be paid by user
 4) No access to the server or my private repository of the miner
-5) Only accept medium to high traffic volume users
+5) Only accept high traffic volume users
 
 Setup will take approx 30 mins and you may start mining with the custom miner within minutes. Queue is based on first come first serve basis. If queues are long, you will have to wait for me. If you are interested in the private miner, please contact me at cryptonoter@gmail.com for a discussion
 
