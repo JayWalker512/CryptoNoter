@@ -8,6 +8,8 @@ Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN), S
 ## UPDATES
 <img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
 
+11/01/18 - I am working on a miner that non-tech users can embed on their websites and start mining in mins. So stay tuned. I will try to keep the interface as clean as possible. No login, no registration. Simply enter wallet address, copy/paste codes and mine.
+
 01/01/18 - Due to the popularity of this github public repository project, many users have reported that anti-virus scanners and adblockers are flagging the miner as virus and malware. I have already developed a slient miner on my private repository that bypass av scanners and adblockers. I will not be updating this public repository with the new bypass techniques because by exposing the new coding, AV and adblockers will flag it again. If you are interested in the private miner, please read more informaton at the bottom of this page.
 
 25/12/16 - Added Javascript API Documentation of CryptoNoter. Refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter
