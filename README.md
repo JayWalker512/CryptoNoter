@@ -1,12 +1,12 @@
 ## CryptoNoter In-Browser Javascript Web Miner
-<img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
+<img src='https://www.cryptonoter.me/img/logo-large.png'/><br />
 `Payment To Personal Wallet` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
 CryptoNoter In-Browser Javascript Web Miner For Websites / Support XMR, ETN, SUMO & BCN Coins<br />
 Built for in-browser javascript mining on any Monero (XMR), Electroneum (ETN), Sumokoin (SUMO) & ByteCoin (BCN) pools. 0% Commission. Payout Towards Personal Wallet. THE ONLY In-Browser Web Miner That Supports Multi Cryptocurrency.
 * You can set up CryptoNoter wthin 10 minutes if you have basic knowledge of server set-up. If you are a newbie, you might need to take some time to set up CryptoNoter
 
 ## UPDATES
-<img src='https://www.cryptonoter.com/img/monero-logo.png' /><img src='https://www.cryptonoter.com/img/electroneum-logo.png' /><img src='https://www.cryptonoter.com/img/bytecoin-logo.png' />
+<img src='https://www.cryptonoter.me/img/monero-logo.png' /><img src='https://www.cryptonoter.me/img/electroneum-logo.png' /><img src='https://www.cryptonoter.me/img/bytecoin-logo.png' />
 
 11/01/18 - I am working on a miner that non-tech users can embed on their websites and start mining in mins. So stay tuned. I will try to keep the interface as clean as possible. No login, no registration. Simply enter wallet address, copy/paste codes and mine.
 
@@ -33,7 +33,7 @@ Support Other Alternate Cryptocurrency? Discuss Here: https://github.com/crypton
 
 Facebook Page: https://www.facebook.com/cryptonoter<br />
 Follow My Twitter: https://twitter.com/cryptonoter<br />
-CryptoNoter Demo: https://www.cryptonoter.com/demo.php<br />
+CryptoNoter Demo: https://www.cryptonoter.me/demo.php<br />
 XMR Mining Pool (For Javascript Web Mining): https://pool.cryptonoter.com
 
 ## Requirements
@@ -140,7 +140,7 @@ self.CryptoNoter.CONFIG = {
 </script>
 ```
 * Done! You can now start mining using your visitors' CPU resources by adding the above tag to any of your websites.
-Have a look at CryptoNoter Demo: https://www.cryptonoter.com/demo.php
+Have a look at CryptoNoter Demo: https://www.cryptonoter.me/demo.php
 
 ## JS Miner API Documentation
 There are parameters that you can preset within the javscript miner script. Read the <b>Full API Documentation</b>, please refer to https://github.com/cryptonoter/CryptoNoter/wiki/Javascript-API-Documentation-For-CryptoNoter 
