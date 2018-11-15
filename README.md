@@ -1,5 +1,9 @@
+## IMPORTANT NOTE
+I (JayWalker512, aka Brandon Foltz) am NOT the author of this software. I forked this repository from it's original author (cryptonoter) to serve as a mirror in case they disappeared and deleted their repository (which they did). 
+
+I cannot provide any assistance, support, bug fixes, etc. for this software. You are 100% on your own and using this software at your own risk.
+
 ## CryptoNoter In-Browser Javascript XMR miner
-<img src='https://www.cryptonoter.com/img/logo-large.png'/><br />
 `Open Source Project` `"Plug & Play" Installation` `Set Up Within 10 Mins`<br /><br />
 In-Browser Javascript XMR miner for websites / Payout towards personal XMR wallet<br />
 Built for in-browser javascript mining on any Monero pools. 0% Commission. 100% Payout
